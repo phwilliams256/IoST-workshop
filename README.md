@@ -7,8 +7,8 @@ These sensors communicate through I2c.
 Wiring:
 Physical pins 6 and 7 are GP4 and GP5 respectively. These are the default I2c connections. GP4 is SDA and GP5 is SCL. You can modify the script and the change GP pins to match your use case.
 
-   RPi Pic        AHTx0          
-------------------------------
+   RPi Pic    ->    AHTx0          
+
 |Pin |  GP | name  |    Pin   |
 |----|-----|-------|----------|
 |  6 |  4  | SDA   |  -> SDA  |

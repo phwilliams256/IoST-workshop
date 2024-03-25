@@ -33,4 +33,4 @@ Physical pins 6 and 7 are GP4 and GP5 respectively. These are the default I2c co
 
 This project was supported by the Arkansas INBRE program, with a grant from the National Institute of General Medical Sciences, (NIGMS), P20 GM103429 from the National Institutes of Health.
 
-In conjunction with Bob Belford in the IoST lab, Information Science - CSTEM, UA Little Rock.
+In conjunction with Bob Belford in the IoST lab, and Information Science - CSTEM, UA Little Rock.

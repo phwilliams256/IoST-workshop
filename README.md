@@ -1,9 +1,12 @@
 1. blinkLEDpico.py
    ------------------------------------------
 3. getMAC.py
-4. i2ctesting.py
-5. scanForAP.py
-6. try-ahtx0.py
+   ------------------------------------------
+5. i2ctesting.py
+   ------------------------------------------
+7. scanForAP.py
+   ------------------------------------------
+9. try-ahtx0.py
 
 * Overview:
 This python script runs on the Raspberry Pi Pico W using the CircuitPython bootloader. The adafruit_ahtx0 library must be installed in the lib folder on the RPi Pico for this to work. 

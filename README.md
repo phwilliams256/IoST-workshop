@@ -1,7 +1,7 @@
 * Overview:
 This python script runs on the Raspberry Pi Pico W using the CircuitPython bootloader. The adafruit_ahtx0 library must be installed in the lib folder on the RPi Pico for this to work. 
 
-The script works for both the AHT20 and the AHT10 Temperature & Humidity Sensors
+* The script works for both the AHT20 and the AHT10 Temperature & Humidity Sensors
 These sensors communicate through I2c.
  
 * Wiring:
@@ -9,7 +9,7 @@ Physical pins 6 and 7 are GP4 and GP5 respectively. These are the default I2c co
 
 
 
-   RPi Pic    ->    AHTx0          
+   * RPi Pic    ->    AHTx0          
 
 |Pin |  GP | name  |    Pin   |
 |----|-----|-------|----------|

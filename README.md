@@ -3,8 +3,7 @@
 3. i2ctesting.py
 4. scanForAP.py
 5. try-ahtx0.py
-
-* Overview:
+- * Overview:
 This python script runs on the Raspberry Pi Pico W using the CircuitPython bootloader. The adafruit_ahtx0 library must be installed in the lib folder on the RPi Pico for this to work. 
 
 * The script works for both the AHT20 and the AHT10 Temperature & Humidity Sensors
